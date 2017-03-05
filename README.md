@@ -6,7 +6,7 @@
 использовал идею, что между двумя последовательными кадрами человек не
 может сдвинутся сильно далеко от своего предыдущего местоположения.
 
-Отчет в Advanced_Vision_1.pdf
+Отчет в [Advanced_Vision_1.pdf](https://github.com/rb-kuddai/av_human_detection_ru/blob/master/src/Advanced_Vision_1.pdf)
 
 Получившийся результат
 
